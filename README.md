@@ -13,3 +13,5 @@ Download packages with [Composer](https://getcomposer.org/download/):
 ```bash
 composer install
 ```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius.
